@@ -1,0 +1,8 @@
+2023-04-01,INCOME,Salary,3000.00,Monthly salary
+2023-04-05,EXPENSE,Food,50.25,Groceries from supermart
+2023-04-10,EXPENSE,Rent,800.00,Monthly apartment rent
+2023-04-12,INCOME,Business,200.00,Freelance project payment
+2023-04-15,EXPENSE,Travel,120.00,Weekend trip
+2023-04-20,EXPENSE,Utilities,75.50,Electricity bill
+2023-05-01,INCOME,Salary,3000.00,May salary
+2023-05-03,EXPENSE,Food,60.00,Dinner with friends
